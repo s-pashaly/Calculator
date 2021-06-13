@@ -1,0 +1,9 @@
+C:\Users\Serge\Desktop\c2\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Serge\Desktop\c2\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Serge\Desktop\c2\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Serge\Desktop\c2\Calculator\Calculator\obj\Debug\Calculator.MainForm.resources
+C:\Users\Serge\Desktop\c2\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Serge\Desktop\c2\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Serge\Desktop\c2\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Serge\Desktop\c2\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Serge\Desktop\c2\Calculator\Calculator\obj\Debug\Calculator.pdb
